@@ -1,0 +1,18 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/juked-gg/integrations
+- https://zapier.com/apps/buffd/integrations
+- https://n8n.io/integrations/juked-gg/
+- https://composio.dev/toolkits/juked-gg
+- https://monid.ai/tools/juked-gg
+checked:
+- https://composio.dev/toolkits/juked-gg
+- https://monid.ai/tools/juked-gg
+- https://n8n.io/integrations/juked-gg/
+- https://zapier.com/apps/buffd/integrations
+- https://zapier.com/apps/juked-gg/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
